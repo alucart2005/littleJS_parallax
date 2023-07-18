@@ -27,14 +27,14 @@
 .banner .container #scene #text {
   display: flex !important;
   position: relative;
-  color: #fff;
-  font-size: 14vw;
+  color: rgba(142, 92, 92, 0.2);
+  font-size: 11vw;
   z-index: 100;
 }
 .banner .container #scene #text span {
   position: relative !important;
   display: inline-block;
-  text-shadow: 1px 1px 0 #e1e1e1, 2px 2px 0 #e1e1e1, 3px 3px 0 #e1e1e1, 4px 4px 0 #e1e1e1, 5px 5px 0 #e1e1e1, 6px 6px 0 #e1e1e1, 7px 7px 0 #e1e1e1, 8px 8px 0 #e1e1e1, 25px 35px 0px rgba(0, 0, 0, 0.1);
+  text-shadow: 1px 1px 0 #6b51a6, 2px 2px 0 #e1e1e1, 3px 3px 0 #e1e1e1, 4px 4px 0 #e1e1e1, 5px 5px 0 #e1e1e1, 6px 6px 0 #e1e1e1, 7px 7px 0 #e1e1e1, 8px 8px 0 #e1e1e1, 25px 35px 0px rgba(0, 0, 0, 0.1);
 }
 .banner .container #scene .layer {
   position: absolute;
